@@ -2,9 +2,16 @@ This project was my capstone project during my MS program in Data Analytics Engi
 
 This project was completed as part of a 4-person team, but I served as project manager, wrote most of the paper, and designed and coded the model (lineupBasedModel.py).
 
+My team received a 100 on the assignment.
+
 File Descriptions:
+
 lineupBasedModel.py -> primary model code and also includes some simple visualizations
+
 defense.csv.xz, offense.csv.xz, and lineups_5.csv.xz -> input files pulled from NBA.com API
+
 WizCand.csv, optFile.csv -> input files for Wizards optimization
+
 NBA Auto GM Full Presentation Final.pptx -> final project presentation
+
 NBA Auto GM Project Paper.pdf -> final project paper

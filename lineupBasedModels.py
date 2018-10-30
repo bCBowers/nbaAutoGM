@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 21 06:19:59 2018
-
-@author: Colin
-"""
 
 # Import Packages and Data
 import pandas as pd
